@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/BhuvaneshHingal/HELLO-WORLD/master/resources/Hello%20World!.gif" align="center" width =100% height=350 />
+<img src="https://raw.githubusercontent.com/BhuvaneshHingal/HELLO-WORLD/master/resources/Hello%20World!.gif" align="center" width =100% height=300 />
 </div>  
   
 
@@ -55,15 +55,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/aditya-ranjan-dev/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://github.com/ranjanaditya08" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.linkedin.com/in/aditya-ranjan-dev/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=twitter&logoColor=blue alt=github style="margin-bottom: 5px;" />
-</a> 
+<a href="https://linkedin.com/in/aditya-ranjan-dev/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://leetcode.com/u/adityaa08/" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=orange alt=github style="margin-bottom: 5px;" />
 </a> 
