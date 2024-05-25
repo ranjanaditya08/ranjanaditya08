@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aditya, a passionate full-stack  developer 👨‍💻🚀</div>  
+### <div align="center">I'm Aditya, a passionate Web developer 👨‍💻🚀</div>  
   
 
 -  💼 I’m currently looking for Job Opportunities.  
