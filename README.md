@@ -9,7 +9,7 @@
 -  💼 I’m currently looking for Job Opportunities.  
   
 
-- 💬 Ask me about Java, Spring-Boot, React and related technologies.  
+- 💬 Ask me about Java, JavaScript, SQL , Spring-Boot, React and related technologies.  
   
 
 - ⚡ Fun fact: I'm a Moviebuff.
