@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Java, JavaScript, SQL , Spring-Boot, React and related technologies.  
 
-- <a href="https://drive.google.com/file/d/16rDgst_b9IstvMPG8Ec7d-sqcAf3gaGK/view?usp=drive_link">Resume</a>
+- 🧾 <a href="https://drive.google.com/file/d/16rDgst_b9IstvMPG8Ec7d-sqcAf3gaGK/view?usp=drive_link">Resume</a>
 
 - ⚡ Fun fact: I'm a Moviebuff.
 - 📫 How to reach me **adityaranjann29@gmail.com**
