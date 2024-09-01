@@ -4,10 +4,6 @@
   
 
 ### <div align="center">I'm Aditya, a passionate Web developer 👨‍💻🚀</div>  
-  
-
--  💼 I’m currently looking for Job Opportunities.  
-  
 
 - 💬 Ask me about Java, JavaScript, SQL , Spring-Boot, React and related technologies.  
 
